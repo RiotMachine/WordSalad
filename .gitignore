@@ -1,3 +1,8 @@
+#Me-generated ignores
+dev_notes/
+
+
+# GitHub-generated ignores
 # Prerequisites
 *.d
 
